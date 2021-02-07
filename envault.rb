@@ -1,8 +1,8 @@
 class Envault < Formula
   desc ""
   homepage ""
-  url "https://github.com/kobibarhanin/envault/archive/v0.0.1.tar.gz"
-  sha256 "de95df93afe4841c6cacb088c38de195fb9261bd45112f7177f3b5b9310c4e76"
+  url "https://github.com/kobibarhanin/envault/archive/v0.0.2.tar.gz"
+  sha256 "f7858efcab82ba0506915d3ec8dab364ce25057ba598d11b60f6f1ab34b784a2"
   license ""
 
   depends_on cask: "gpg-suite"
