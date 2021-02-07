@@ -5,6 +5,7 @@ class Envault < Formula
   sha256 "de95df93afe4841c6cacb088c38de195fb9261bd45112f7177f3b5b9310c4e76"
   license ""
 
+  depends_on cask: "gpg-suite"
 
   def install
       bin.install "envault"
